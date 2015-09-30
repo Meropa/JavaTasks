@@ -8,7 +8,7 @@ public class Main {
 			arr[i] = Double.parseDouble(args[i]);
 		}
 		
-		//call of sort function
+		BubbleSort.sort(arr);
 		
 		printArray(arr);
 	}
