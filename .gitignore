@@ -1,6 +1,7 @@
 .classpath
 .project
 *.md
+*.class
 Task1/bin/
 Task1/.classpath
 Task1/.project
